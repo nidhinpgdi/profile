@@ -1,0 +1,13 @@
+#a{
+    font-size:50px;
+    font-style: oblique;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding-right: 50%;
+}
+#b{
+    height: 620px;
+    width: 100%;
+    background-color: crimson;
+    background-image: url("https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png");
+}
